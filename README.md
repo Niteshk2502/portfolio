@@ -1,7 +1,7 @@
 # Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
-> https://github.com/Niteshk2502/
+> https://niteshk2502.github.io/portfolio/
 
 ![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/nitesh2502.github.io) 
 ![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/nitesh2502.github.io)
